@@ -30,8 +30,11 @@ Recommendations
 •	Introduce flexible work policies during peak absenteeism periods to accommodate employee needs.
 •	Implement targeted employee engagement programs to boost motivation and reduce frequent short absences.
 •	Utilize predictive analytics to anticipate future absenteeism and plan resources accordingly.
-Conclusion
-This project sheds light on critical attendance patterns and highlights areas where organizations can intervene to enhance productivity and employee satisfaction. By addressing absenteeism through data-driven strategies, companies can foster a healthier work environment.
+Conclusion[Attendance [HR Analytics Atliq_masked.zip](https://github.com/user-attachments/files/19445607/HR.Analytics.Atliq_masked.zip)
+Sheet 2022-2023_Masked.xlsx](https://github.com/user-attachments/files/19445565/Attendance.Sheet.2022-2023_Masked.xlsx)
+
+This project sheds light on critical attendance patterns and highlights areas where organizations can intervene to enhance productivity and employee satisfactio[Attendance Sheet 2022-2023_Masked.xlsx](https://github.com/user-attachments/files/19445521/Attendance.Sheet.2022-2023_Masked.xlsx)
+n. By addressing absenteeism through data-driven strategies, companies can foster a healthier work environment.
 Future Scope
 •	Extend the analysis to include performance and productivity metrics.
 •	Develop predictive models to forecast absenteeism and improve workforce planning.
